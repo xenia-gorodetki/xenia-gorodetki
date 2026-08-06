@@ -7,25 +7,13 @@ Currently, I am looking for a challenging IT internship or junior position to br
 ### Tech Stack
 * **Languages:** Java, Python, SQL, HTML, CSS
 * **Cybersecurity:** Kali Linux, Metasploit, Wireshark, Vulnerability Analysis
-* **Tools:** macOS Terminal, Virtual Machines, Git
+* **Tools & Frameworks:** macOS Terminal, Virtual Machines, Git, PyTorch, TensorFlow
 
 ### Highlights
-* Designed a custom relational database scoring 39/40.
-* Scored an outstanding 22/20 (with bonus depth points) on a comprehensive Penetration Testing project.
-* Promoted to Assistant Manager at Hotel U Prince, managing onboarding, scheduling, and cross-team communication.
+* **Software Development (Java):** Developed and defended a custom text-based adventure game applying core object-oriented programming principles, scoring 28/30 points.
+* **Applied Mathematics (Python):** Implemented linear algebra solvers and calculus approximations using PyTorch and TensorFlow, successfully demonstrating algorithmic logic for a university mathematics examination.
+* **Database Architecture:** Designed a comprehensive relational B2B CRM database scoring 39/40.
+* **Cybersecurity:** Scored an outstanding 22/20 (with bonus depth points) on a comprehensive Penetration Testing project.
+* **Leadership & Management:** Promoted to Assistant Manager at Hotel U Prince, managing onboarding, scheduling, and cross-team communication.
 
-Reach me at: xenia.gorodetki@gmail.com or on www.linkedin.com/in/xenia-g-400b55307
-<!--
-**xenia-gorodetki/xenia-gorodetki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me at: [xenia.gorodetki@gmail.com](mailto:xenia.gorodetki@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/xenia-g-400b55307)
