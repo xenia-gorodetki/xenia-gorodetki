@@ -9,6 +9,10 @@ Currently, I am looking for a challenging IT internship or junior position to br
 * **Cybersecurity:** Kali Linux, Metasploit, Wireshark, Vulnerability Analysis
 * **Tools & Frameworks:** macOS Terminal, Virtual Machines, Git, PyTorch, TensorFlow
 
+### Featured Cybersecurity Projects
+
+* **[Network Traffic Forensics](https://github.com/tvojejmeno/Network-Traffic-Forensics)**: A comprehensive network analysis project split into two scenarios — establishing a healthy macOS network baseline vs. performing threat hunting and incident analysis on a real-world **RedLine Stealer** malware infection using Wireshark. Extracted IOCs and proposed mitigation strategies.
+
 ### Highlights
 * **Software Development (Java):** Developed and defended a custom text-based adventure game applying core object-oriented programming principles, scoring 28/30 points.
 * **Applied Mathematics (Python):** Implemented linear algebra solvers and calculus approximations using PyTorch and TensorFlow, successfully demonstrating algorithmic logic for a university mathematics examination.
