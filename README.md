@@ -22,7 +22,7 @@ Currently, I am looking for a challenging IT internship or junior position to br
 * **Software Development (Java):** Developed and defended a custom text-based adventure game applying core object-oriented programming principles, scoring 28/30 points.
 * **Applied Mathematics (Python):** Implemented linear algebra solvers and calculus approximations using PyTorch and TensorFlow, successfully demonstrating algorithmic logic for a university mathematics examination.
 * **Database Architecture:** Designed a comprehensive relational B2B CRM database scoring 39/40.
-* **Penetesting:** Scored an outstanding 22/20 (with bonus depth points) on a comprehensive Penetration Testing project.
+* **Pentesting:** Scored an outstanding 22/20 (with bonus depth points) on a comprehensive Penetration Testing project.
 * **Leadership & Management:** Promoted to Assistant Manager at Hotel U Prince, managing onboarding, scheduling, and cross-team communication.
 
 Reach me at: [xenia.gorodetki@gmail.com](mailto:xenia.gorodetki@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/xenia-g-400b55307)
