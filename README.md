@@ -11,7 +11,7 @@ Currently, I am looking for a challenging IT internship or junior position to br
 
 ### Featured Cybersecurity Projects
 
-* **[Network Traffic Forensics](https://github.com/xenia-gorodetki/Network-Traffic-Forensics)**: A comprehensive network analysis project split into two scenarios — establishing a healthy macOS network baseline vs. performing threat hunting and incident analysis on a real-world **RedLine Stealer** malware infection using Wireshark. Extracted IOCs and proposed mitigation strategies.
+* **[Network Traffic Forensics](https://github.com/xenia-gorodetki/Network-Traffic-Forensics)**: A comprehensive network analysis project split into two scenarios — establishing a healthy macOS network baseline & performing threat hunting and incident analysis on a real-world **RedLine Stealer** malware infection using Wireshark. Extracted IOCs and proposed mitigation strategies.
 * **[Java-Text-Adventure](https://github.com/xenia-gorodetki/Java-Text-Adventure)**: An interactive, text-based adventure game built in Java, featuring robust object-oriented architecture and successful evaluation defense.
 * **[Relational-Database-Architecture](https://github.com/xenia-gorodetki/Relational-Database-Architecture)**: Custom relational database architecture deployed on an Oracle server with DDL generation and integrity constraints.
 * **[Mathematical-Algorithms-Python](https://github.com/xenia-gorodetki/Mathematical-Algorithms-Python)**: A collection of computational and mathematical algorithms implemented in Python and documented via Jupyter Notebooks.
